@@ -1,0 +1,32 @@
+{
+  "name": "karma-ng-directive-template-url-preprocessor",
+  "version": "0.1.0",
+  "description": "A Karma plugin. Compile AngularJS directives and creates a  to JavaScript on the fly.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "angularjs",
+    "angular",
+    "html2js"
+  ],
+  "author": {
+    "name": "Oren Levy",
+    "email": "oren@polyweb.co.il"
+  },
+  "dependencies": {
+    "http-sync" : ">0.0.0",
+    "http-sync-win" : ">0.0.0"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "karma-ng-directive-template-url-preprocessor@0.1.0",
+  "_from": "karma-ng-directive-template-url-preprocessor@"
+}
