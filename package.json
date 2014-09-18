@@ -17,7 +17,7 @@
     "name": "Oren Levy",
     "email": "oren@polyweb.co.il"
   },
-  "dependencies": {
+  "optionalDependencies": {
     "http-sync" : ">0.0.0",
     "http-sync-win" : ">0.0.0"
   },
