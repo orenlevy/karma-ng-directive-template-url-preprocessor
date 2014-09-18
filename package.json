@@ -1,6 +1,6 @@
 {
   "name": "karma-ng-directive-template-url-preprocessor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Karma plugin. Compile AngularJS directives and creates a  to JavaScript on the fly.",
   "main": "lib/index.js",
   "scripts": {
